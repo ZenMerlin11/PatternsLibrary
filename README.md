@@ -1,2 +1,2 @@
 # PatternsLibrary
-This project was created as a sandbox for practicing various implementations of the Gang of Four patterns in C#. It is provided here for reference and experimentation but serves no other practical purpose.
+This was a sandbox project I created a few years ago for learning and practicing various implementations of the Gang of Four patterns in C#. The pattern implementations used in this project were taken from examples provided at http://www.dofactory.com/net/design-patterns. This repository is for personal reference and educational/experimental use only and is not intended to serve any other practical purpose.
