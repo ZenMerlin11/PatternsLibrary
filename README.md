@@ -1,5 +1,5 @@
 # csharp-design-patterns
-Examples of Gang of Four patterns implemented in C#.
+## Examples of Gang of Four patterns implemented in C#.
 
 Reference:
 
